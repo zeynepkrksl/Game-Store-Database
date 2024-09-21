@@ -16,4 +16,4 @@ the smooth operation of the entire online game store system.
 
 4- Customer Data Storage
 
-5- Real-Time Monitorin
+5- Real-Time Monitoring

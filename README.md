@@ -9,7 +9,11 @@ This project aims to establish a well-structured and efficient data management p
 the smooth operation of the entire online game store system.
 
 1- Database Design 
+
 2- Inventory Management 
+
 3- Safety and Compliance
+
 4- Customer Data Storage
+
 5- Real-Time Monitorin
